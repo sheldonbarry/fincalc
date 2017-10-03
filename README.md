@@ -2,7 +2,7 @@
 
 A simple Python module to perform annuity calculations.
 
-To view the package in use on a basic web app, go to [link](http://fincalcapp.appspot.com)
+To view the package in use on a basic web app using a Python based web framework, go to [link](http://fincalcapp.appspot.com)
 
 
 ## Overview
