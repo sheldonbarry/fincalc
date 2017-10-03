@@ -1,6 +1,6 @@
 # fincalc
 
-A simple Python package to perform annuity calculations.
+A simple Python module to perform annuity calculations.
 
 To view the package in use on a basic web app, go to [link](http://fincalcapp.appspot.com)
 
